@@ -24,7 +24,7 @@
 
 
 ## Links
-- **GitHub Link:** https://github.com/vishalsaini49/Insurance-Price-Prediction
-- **Tableau Link:** https://public.tableau.com/views/Insuranceforecasting/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- **Loom Video Link:** https://www.loom.com/share/c0d47e6d73ca4646b2407be2c54e560e?sid=8fd34bb1-bd60-4ece-93a2-0a8b8c1b9714
-- **Technical Blog Link:** https://medium.com/@vishalsaini49/insurance-cost-prediction-using-machine-learning-b634b5599d78
+- **GitHub Link:** 
+- **Tableau Link:** 
+- **Loom Video Link:** 
+- **Technical Blog Link:**
