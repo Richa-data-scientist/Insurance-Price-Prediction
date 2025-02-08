@@ -26,5 +26,5 @@
 ## Links
 - **GitHub Link:** https://github.com/Richa-data-scientist/Insurance-Price-Prediction/
 - **Tableau Link:** https://public.tableau.com/app/profile/richa.naik/viz/Insuranceforecasting_17390369313120/Story1?publish=yes
-- **Loom Video Link:** 
+- **Loom Video Link:** https://www.loom.com/share/6a33203bd6674dcabafc60395c678a7e?sid=3ef1d80f-376b-42d6-a0f3-5524917e24dd
 - **Technical Blog Link:** https://medium.com/@richanaik0917/insurance-cost-prediction-using-machine-learning-1627a0af24ea
